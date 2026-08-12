@@ -3,3 +3,4 @@ __pycache__/
 
 Data/raw/
 Data/processed/*.db
+.vscode/
